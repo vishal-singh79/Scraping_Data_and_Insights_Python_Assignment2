@@ -1,0 +1,15 @@
+2026-01-25 20:32:58,070 - INFO - Extracted 10 records from API
+2026-01-25 20:32:58,072 - INFO - Transformation completed
+2026-01-25 20:34:23,715 - INFO - Extracted 10 records from API
+2026-01-25 20:34:23,716 - INFO - Transformation completed
+2026-01-25 20:34:23,718 - INFO - Rejected 0 invalid records
+2026-01-25 20:34:23,719 - INFO - Clean data saved to CSV
+2026-01-25 20:34:23,756 - INFO - Data inserted into SQLite database
+2026-01-25 20:34:23,758 - INFO - SQL insights executed
+2026-01-27 10:15:43,399 - ERROR - API extraction failed: HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Read timed out. (read timeout=10)
+2026-01-27 10:16:12,277 - INFO - Extracted 10 records from API
+2026-01-27 10:16:12,279 - INFO - Transformation completed
+2026-01-27 10:16:12,280 - INFO - Rejected 0 invalid records
+2026-01-27 10:16:12,293 - INFO - Clean data saved to CSV
+2026-01-27 10:16:12,338 - INFO - Data inserted into SQLite database
+2026-01-27 10:16:12,339 - INFO - SQL insights executed and printed to terminal
