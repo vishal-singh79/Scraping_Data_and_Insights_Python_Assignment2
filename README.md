@@ -37,6 +37,9 @@ PythonAssignment2/
     └── insights.py       # Generate data insights and statistics
 ```
 
+## Data Output Result
+![Screenshot](USER_OUTPUT_TABLE_SS.png)
+
 ## Requirements
 
 - Python 3.7 or higher
